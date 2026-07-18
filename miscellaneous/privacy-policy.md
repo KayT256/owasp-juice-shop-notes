@@ -1,0 +1,3 @@
+- I already did [[score-board-and-initial-recon]]. View source code of main.js. See `{path:"privacy-security",component:Uf,children:[{path:"privacy-policy",component:Kg}`
+- Go go http://localhost:3000/#/privacy-security/privacy-policy
+- Complete challenge

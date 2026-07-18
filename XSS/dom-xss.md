@@ -1,0 +1,12 @@
+- See that there is a Customer Feedback page (http://localhost:3000/#/contact)
+- This may have vulnerable comment box
+- Try `<b>Hello</b>`
+- See a bolded **Hello** in the Customer Feedback section on http://localhost:3000/#/about -> Stored XSS confirmed
+- Now, do `<iframe src="javascript:alert(`xss`)">`
+- Nothing happens. Maybe there is a sanitizer on the feedback page.
+- Another attack vector is the search bar, as it displays the result as it displays what I just searched for.
+- Try `<b>Hello</b>`
+- See `Search Results - Hello` with the bolded **Hello** -> Reflected XSS confirmed
+- Now, do `<iframe src="javascript:alert(`xss`)">`
+- Success, see `localhost:3000 says xss`
+- It seems the search bar has lower sanitization level compared to the feedback comment

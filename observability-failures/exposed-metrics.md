@@ -1,0 +1,3 @@
+- According to [Prometheus documentation](https://prometheus.io/docs/introduction/first_steps/), "Prometheus expects metrics to be available on targets on a path of `/metrics`"
+- Try to visit http://localhost:3000/metrics
+- Finish challenge

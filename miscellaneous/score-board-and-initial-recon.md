@@ -1,0 +1,14 @@
+- Navigage to http://localhost:3000/
+- Notice the `address bar` automatically add http://localhost:3000/#/. The `#` is a fragment identifier used for virtual navigation. This means that the browser does not send a new request to server. Instead, the Javascript framework intercepts the change and updates the page dynamically. 
+- Check `/robots.txt`. See `Disallow: /ftp`. Try to access it. The files here may be useful for later.
+- Check `network` tab, see http://localhost:3000/api/Challenges/?name=Score%20Board
+- Try to enter that link to the url bar and see the results being returned.
+- Now I know there is a score board.
+- View source code (the DOM)
+- See `<app-root>`, which is a signature for Angular
+- View `main.js`
+- Now, I know it is highly likely Angular, search for "path:"
+- See the array defining the paths. See `path: "score-board"`
+- Navigate to http://localhost:3000/#/
+- Complete 1st challenge.
+

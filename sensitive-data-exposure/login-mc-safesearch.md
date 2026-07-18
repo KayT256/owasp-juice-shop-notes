@@ -1,0 +1,7 @@
+- Since I have access to [[admin-section]], I know that there is a user with email`mc.safesearch@juice-sh.op`
+- Do google search for MC SafeSearch
+- It seems he (fictional character) has a song named **Protect Ya Passwordz**
+- The song lyrics have "Mr. Noodles [...] replaced some vowels with zeroes"
+- So the password may be `Mr. N00dles`
+- Try login with it
+- Complete the challenge

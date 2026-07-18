@@ -1,0 +1,12 @@
+- Since I have access to [[admin-section]], I can easily know Emma's email address `emma@juice-sh.op`
+- Enter her email
+- See the question "Company you first work for as an adult?"
+- Go to http://localhost:3000/#/photo-wall
+- See the image `My old workplace... (© E=ma²)`
+- Try checking metadata like [[meta-geo-stalking]], but unlike John, she has removed the metadata from the image.
+- Use the image search functionality of google
+- See that it is a stately 18th-century classical mansion located in Kenaupark, Haarlem (Kenaupark 23, 2011 MR Haarlem)
+- See that it is a headquarters for ITsec Security Services
+- Enter `ITsec`
+- Change the password to `Emma'sPassword123`
+- Complete the challenge

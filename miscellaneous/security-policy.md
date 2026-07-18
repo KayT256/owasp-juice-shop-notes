@@ -1,0 +1,6 @@
+- "Behave like any "white-hat" should before getting into the action."
+- That sounds like there should be an official guideline on what actions are allowed and what are not. And maybe there is a page to report bugs.
+- Search google for *"convention for the URL path of a company’s bug bounty page"*
+- See `/security, /security.txt, /hackerone, /bugcrowd`
+- Try and see that `security.txt` has the information needed
+- Complete the challenge

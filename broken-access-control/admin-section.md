@@ -1,0 +1,5 @@
+- I have already signed in as admin from [[login-admin]]
+- Search for "admin, administration" in `main.js`
+- See `path: "administration",`
+- Go to http://localhost:3000/#/administration
+- Complete challenge

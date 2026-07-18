@@ -1,0 +1,3 @@
+- I already did [[score-board-and-initial-recon]]. View source code of main.js. See `path: "web3-sandbox",`
+- Go to http://localhost:3000/#/web3-sandbox
+- Complete the challenge

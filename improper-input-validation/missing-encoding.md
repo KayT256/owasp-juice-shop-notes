@@ -1,0 +1,5 @@
+- Go to http://localhost:3000/#/photo-wall
+- See the first image is not loaded properly
+- Inspect it, see that the path is `assets/public/images/uploads/ᓚᘏᗢ-#zatschi-#whoneedsfourlegs-1572600969477.jpg`
+- It has `#`, which is the fragment identifier. It strips everything after it.
+- Update the path to `assets/public/images/uploads/ᓚᘏᗢ-%23zatschi-%23whoneedsfourlegs-1572600969477.jpg`

@@ -1,0 +1,3 @@
+- Just like [[login-jim]] (I wonder why there is even this challenge)
+- Complete challenge
+- I tried clicking to show all of the hints to see what the difference is. It seems that I cannot simply decode the MD5 password hash like other users.

@@ -1,0 +1,2 @@
+- I already know I can access http://localhost:3000/ftp through [[score-board-and-initial-recon]]
+- Access http://localhost:3000/ftp/acquisitions.md, which is the file for this challenge

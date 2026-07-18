@@ -1,0 +1,13 @@
+- Try to look at http://localhost:3000/#/juicy-nft first
+- Inspect all elements and found nothing.
+- Try clicking the `Authenticate` button with no data, see *"Looks like you entered a non-Ethereum private key to access me."* - Confirmed that it is Ethereum wallet
+- This is a `Sensitive Data Exposure`
+- Try looking at the photo wall - maybe the admin accidentally have the seedphrase in a photo
+- I was wrong - there is nothing.
+- Search for key words "NFT, privateKey, seedphrase" in main.js but no luck
+- Try checking the feedbacks - Bingo
+- See comment from user #21 `Please send me the juicy chatbot NFT in my wallet at /juicy-nft : "purpose betray marriage blame crunch monitor spin slide donate sport lift clutch" (***ereum@juice-sh.op)`
+- Copy the seed phrase to https://www.iancoleman.net/ethereum-bip39/
+- Get the private key `0x5bcc3e9d38baa06e7bfaab80ae5957bbe8ef059e640311d7d6d465e6bc948e3e`
+- Submit it on http://localhost:3000/#/juicy-nft
+- Complete the challenge

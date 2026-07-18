@@ -1,0 +1,4 @@
+- Intercept the request for basket page
+- See `GET /rest/basket/6 HTTP/1.1`
+- Change that to another number `GET /rest/basket/5 HTTP/1.1`
+- Complete the challenge

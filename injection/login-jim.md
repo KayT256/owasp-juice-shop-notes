@@ -1,0 +1,4 @@
+- Just like [[login-admin]]
+- Enter `jim@juice-sh.op'--` for user name
+- Enter anything for password
+- Complete challenge

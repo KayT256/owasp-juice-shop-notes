@@ -1,0 +1,1 @@
+- Since I already have admin access from [[login-admin]] and I know that there is an [[admin-section]], I just need to go to http://localhost:3000/#/administration and delete the comments

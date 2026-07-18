@@ -1,0 +1,2 @@
+- There is a file handling error in `ftp`
+- Just continuously click a file that cause the error `##  Error: Only .md and .pdf files are allowed!`

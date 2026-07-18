@@ -1,0 +1,3 @@
+- Enter `' OR 1=1 --` for username
+- Enter anything for password
+- Complete challenge

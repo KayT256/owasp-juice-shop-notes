@@ -1,0 +1,17 @@
+- It seems that there are parts that when hover, they have a blurred background of yellow-red color
+- Highlight these parts, right click, choose inspection
+- Select the `span` element with the class `hot` if it is not already selected
+- Force element state to `hover`
+- Repeat these for all the `hot` elements
+- The highlighted ones are
+	- `We may also`
+	- `instruct you`
+	- `to refuse all`
+	- `reasonably necessary`
+	- `responsibility`
+- What do these mean? If they are combined, it would be "We may also instruct you to refuse all reasonably necessary responsibility"
+- Try go to
+	- http://localhost:3000/#/we-may-also-instruct-you-to-refuse-all-reasonably-necessary-responsibility (does not work)
+	-  http://localhost:3000/we-may-also-instruct-you-to-refuse-all-reasonably-necessary-responsibility (does not work)
+	- http://localhost:3000/we/may/also/instruct/you/to/refuse/all/reasonably/necessary/responsibility (works!)
+- Complete the challenge

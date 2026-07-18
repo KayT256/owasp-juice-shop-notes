@@ -1,0 +1,3 @@
+- Go to http://localhost:3000/#/contact
+- Enter `MD5` (as this is unsalted MD5, which can be easily decoded like I did in [[password-strength]] and [[password-hash-leak]])
+- Complete challenge

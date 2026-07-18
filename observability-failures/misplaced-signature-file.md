@@ -1,0 +1,5 @@
+- Just like [[forgotten-developer-backup]]
+- Go to http://localhost:3000/ftp
+- See `suspicious_errors.yml` file
+- Use Poison Null Byte injection `http://localhost:3000/ftp/suspicious_errors.yml%2500.md` to access the file
+- Complete the challenge

@@ -1,0 +1,4 @@
+- Search for keywords about close, notification in `main.js`
+- See `return I(d.closeNotification(s, n.shiftKey))`
+- It checks the condition `n.shiftKey`, so maybe holding shift + click will work
+- Tried and succeed.
