@@ -1,0 +1,3 @@
+- Just like [[forgotten-developer-backup]], use Poison Null Byte injection
+- Go to http://localhost:3000/ftp/coupons_2013.md.bak
+- Complete the challenge
