@@ -12,5 +12,5 @@ showBitcoinQrCode() {
             })
         }
 ```
-- Enter the url http://localhost:3000//redirect?to=https://blockchain.info/address/1AbKfgvw9psQ41NbLi8kufDQTezwG8DRZm
+- Enter the url http://localhost:3000/redirect?to=https://blockchain.info/address/1AbKfgvw9psQ41NbLi8kufDQTezwG8DRZm
 - Complete challenge
