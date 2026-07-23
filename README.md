@@ -46,13 +46,13 @@ As of this writing:
 
 |Track|Progress|
 |---|---|
-|Hacking Challenges (overall)|48%|
+|Hacking Challenges (overall)|53%|
 |★ (1-star)|27/27|
 |★★ (2-star)|23/28|
 |★★★ (3-star)|34/48|
-|★★★★ (4-star)|6/37|
+|★★★★ (4-star)|16/37|
 |★★★★★ / ★★★★★★|0 / 0|
-|Coding Challenges|55%|
+|Coding Challenges|61%|
 
 This is a snapshot, not a ceiling — the harder tiers are exactly where the real learning is happening, and this repo will keep growing as I work through them.
 
